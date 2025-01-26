@@ -40,10 +40,5 @@ This project is a comprehensive guide to building a full-fledged data engineerin
 
 ---
 
-## 🔄 Evolution of the Project
 
-- **Initial Release (March 2021)**: Focused on foundational data engineering concepts with Apache Spark and Delta Lake.
-- **Updated (March 2024)**: Migrated to delta-rs for easier Delta Lake interactions in Python, updated all tools, and refined workflows.
-
----
 
