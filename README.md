@@ -6,7 +6,8 @@
 
 [![Open Source Logos](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/images/open-source-logos.png)](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/)
 
-This repository containts a practical implementation of a data engineering project that spans across web-scraping real-estates, processing with Spark and Delta Lake, adding data science with Jupyter Notebooks, ingesting data into Apache Druid, visualizing with Apache Superset, and managing workflows with Dagster—all orchestrated on Kubernetes. 
+This repository demonstrates a **real-world Data Engineering project** that addresses common challenges while exploring innovative technologies. The project focuses on building a data application that collects real-estate data, processes it using modern tools, and delivers insights through machine learning and data visualization. It serves as both a learning resource and a practical guide for real-world applications.
+
 
 **Built your own DE project or forked mine? Let me know in the comments; I'd be curious to know more about.**
 
@@ -81,28 +82,6 @@ dagster dev
 
 ![Dagster UI – Practical Data Engineering Pipeline](images/dagster-practical-data-engineering-pipeline.png)
 
-## 📚 Resources & Further Reading
-- [YouTube Video](https://youtu.be/FfDOsgg2EEQ): Watch the video tutorial on building this project.
-- [Building a Data Engineering Project in 20 Minutes](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/): Access the full blog post detailing the project's development, challenges, and solutions.
-- [DevOps Repositories](https://github.com/ssp-data/data-engineering-devops): Explore the setup for Druid, MinIO and other components.
-- [Open-Source Data Engineering Projects](https://www.ssp.sh/brain/open-source-data-engineering-projects/): A curated list of open-source data engineering projects to explore.
-- [Data Engineering Vault](https://vault.ssp.sh/): A collection of resources, tutorials, and guides for data engineering projects.
-- [Data Engineering Design Patterns](https://www.dedp.online): My book about the evolution of data engineering and its design patterns.
 
-
-## 📣 Feedback
-Your feedback is invaluable to improve this project. If you've built your project based on this repository or have suggestions, please let me know through creating an Issues or a Pull Request directly.
-
----
-
-*This project is part of my journey in exploring data engineering challenges and solutions. It's an open invitation for everyone interested in data engineering to learn, contribute, and share your experiences.*
-
-*Below some impressions of the jupyter notebook used in this project.*
-
-
-<p align="center">
-<img src="https://sspaeti.com/blog/the-location-independent-lifestyle/europe/sspaeti_com_todays_office_033.jpg" width="600">
-
-</p>
 
 
