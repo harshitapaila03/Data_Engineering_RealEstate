@@ -1,4 +1,4 @@
-# Practical Data Engineering: A Hands-On Real Estate Project Guide
+# Real Estate Data Pipeline and Analytics 
 
 This repository demonstrates a **real-world Data Engineering project** that addresses common challenges while exploring innovative technologies. The project focuses on building a data application that collects real-estate data, processes it using modern tools, and delivers insights through machine learning and data visualization. It serves as both a learning resource and a practical guide for real-world applications.
 
