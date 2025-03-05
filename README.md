@@ -11,7 +11,6 @@ This project is a comprehensive guide to building a full-fledged data engineerin
 ### Key Features:
 - **Real-World Application**: Solve real challenges by analyzing real-estate data to find ideal properties.
 - **Comprehensive Tech Stack**: Incorporates tools for data ingestion, processing, machine learning, and visualization.
-- **Hands-On Learning**: Offers a practical approach to understanding how different technologies integrate seamlessly.
 
 ---
 
